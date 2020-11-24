@@ -1,0 +1,14 @@
+body {
+  background-color: #262626;
+}
+
+.App {
+  text-align: center;
+}
+
+.counter {
+  background-color: #f9f9f9;
+  padding: 1rem;
+  margin: 15px;
+  /* box-shadow: 2px 2px 8px 9px rgba(0, 0, 0, 0.103); */
+}
